@@ -1,0 +1,5 @@
+# ignore the model file
+digit-recognition.keras
+
+# ignore virtual environment
+venv/
